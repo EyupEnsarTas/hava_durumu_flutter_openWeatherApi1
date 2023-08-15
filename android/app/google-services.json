@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030305383599",
+    "project_id": "singin-f037f",
+    "storage_bucket": "singin-f037f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030305383599:android:ef7241ee3c7c7db037805a",
+        "android_client_info": {
+          "package_name": "com.example.hava_durumu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030305383599-2sfab63cqrt2ncjc279m7ddqsk9qgr2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupiOlW1gsIh-Vw0vBxFeq8SvX-QqgIeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030305383599-2sfab63cqrt2ncjc279m7ddqsk9qgr2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
